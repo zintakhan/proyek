@@ -53,6 +53,11 @@ header {
   background-color:white;
   }
 
+.menu-icon {
+	display: none;
+}
+
+
 .top-wrapper {
   padding: 50px 0 100px 0;
   background-size: cover;
